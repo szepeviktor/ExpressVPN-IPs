@@ -1,3 +1,4 @@
+from ipaddress import ip_network
 import dns.resolver
 import os
 import requests
@@ -92,6 +93,7 @@ def resolve_domains_to_subnets(domains, resolver):
                 ip_subnet.add(subnet)
         except Exception as e:
             print(f"Error resolving {domain}: {e}")
+    ip_subnet = sorted(ip_subnet, key=lambda ip: ip_network(ip, strict=False))
     return ip_subnet, ip_out
 
 def write_subnets_to_file(subnets, file_path):
