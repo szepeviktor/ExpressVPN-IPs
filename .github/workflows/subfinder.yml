@@ -33,7 +33,7 @@ jobs:
       - name: SubFinder Installation
         run: |
           git clone https://github.com/projectdiscovery/subfinder.git; \
-          cd subfinder/v2/cmd/subfinder; \
+          cd subfinder/cmd/subfinder; \
           go build; \
           mv subfinder /usr/local/bin/; \
           subfinder -version;
