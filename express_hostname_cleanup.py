@@ -30,7 +30,7 @@ def main():
     else:
         main_data.extend(temp_data)
         main_data = list(set(main_data))
-        write_txt(MAIN_FILE, main_data)
+        write_txt(MAIN_FILE, sorted(set(main_data)))
     
     
     
