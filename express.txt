@@ -1,8 +1,10 @@
 albania-ca-version-2.expressnetw.com
 algeria-ca-version-2.expressnetw.com
 andorra-ca-version-2.expressnetw.com
+app.expressnetw.com
 argentina-ca-version-2.expressnetw.com
 armenia-ca-version-2.expressnetw.com
+assets.expressnetw.com
 australia-adelaide--ca-version-2.expressnetw.com
 australia-brisbane-ca-version-2.expressnetw.com
 australia-melbourne-ca-version-2.expressnetw.com
@@ -30,12 +32,15 @@ canada-toronto-ca-version-2.expressnetw.com
 canada-vancouver-ca-version-2.expressnetw.com
 caymanislands-ca-version-2.expressnetw.com
 chile-ca-version-2.expressnetw.com
+click.expressnetw.com
 colombia-ca-version-2.expressnetw.com
 costarica-ca-version-2.expressnetw.com
 croatia-ca-version-2.expressnetw.com
 cuba-ca-version-2.expressnetw.com
 cyprus-ca-version-2.expressnetw.com
 czechrepublic-ca-version-2.expressnetw.com
+data.expressnetw.com
+demo.expressnetw.com
 denmark-ca-version-2.expressnetw.com
 dominicanrepublic-ca-version-2.expressnetw.com
 ecuador-ca-version-2.expressnetw.com
@@ -88,6 +93,7 @@ latvia-ca-version-2.expressnetw.com
 lebanon-ca-version-2.expressnetw.com
 liechtenstein-ca-version-2.expressnetw.com
 lithuania-ca-version-2.expressnetw.com
+login.expressnetw.com
 luxembourg-ca-version-2.expressnetw.com
 macau-ca-version-2.expressnetw.com
 macedonia-ca-version-2.expressnetw.com
@@ -99,6 +105,7 @@ monaco-ca-version-2.expressnetw.com
 mongolia-ca-version-2.expressnetw.com
 montenegro-ca-version-2.expressnetw.com
 morocco-ca-version-2.expressnetw.com
+my.expressnetw.com
 myanmar-ca-version-2.expressnetw.com
 nepal-ca-version-2.expressnetw.com
 netherlands-amsterdam-2-ca-version-2.expressnetw.com
@@ -116,6 +123,7 @@ portugal-ca-version-2.expressnetw.com
 puertorico-ca-version-2.expressnetw.com
 romania-ca-version-2.expressnetw.com
 russia-ca-version-2.expressnetw.com
+secure.expressnetw.com
 serbia-ca-version-2.expressnetw.com
 singapore-cbd-ca-version-2.expressnetw.com
 singapore-jurong-ca-version-2.expressnetw.com
